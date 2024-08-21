@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,pothos,Bedroom,10,2020-06-05,xxxxxxxxxxxxxxxxxxxx
+Plant 1,snake-plant,Kitchen,5,2023-12-05,xx
+Plant 2,pothos,Living Room,7,2022-07-14,x
+Plant 3,zz-plant,Bedroom,14,2024-03-03,xxx
+Plant 4,pothos,Living Room,5,2021-06-21,xxxxxxxxxxx
+Plant 5,monstera,Kitchen,7,2020-10-16,xxxxxxxx
+Plant 6,monstera,Living Room,7,2024-01-14,xxxxxxxxxxxxxxxxxxx
+Plant 7,monstera,Office,7,2025-01-05,xxxxxxxxxxxxxxxx
+Plant 8,zz-plant,Office,10,2019-06-03,xxxxxxxx
+Plant 9,snake-plant,Kitchen,7,2023-04-28,xxxxxxxxxxxxx
+Plant 10,snake-plant,Office,14,2022-11-21,xxxxxxxxxxxxxxx
+Plant 11,zz-plant,Living Room,10,2019-05-18,xxxxxxxxxxx
+Plant 12,snake-plant,Living Room,10,2020-06-18,xxxxxxxxxxxxxxxxx
+Plant 13,pothos,Kitchen,7,2025-03-09,xx
+Plant 14,monstera,Office,5,2024-11-13,xxxxxxxxxxxxxxxxxxxx
+Plant 15,zz-plant,Bedroom,14,2024-11-09,xxxxx
+Plant 16,pothos,Living Room,7,2023-10-16,xxxxxx
+Plant 17,monstera,Bedroom,7,2022-03-05,xxxxxxxx
+Plant 18,pothos,Living Room,14,2025-05-16,
+Plant 19,monstera,Living Room,5,2025-05-10,xx
+Plant 20,pothos,Kitchen,5,2020-02-11,xxx
+Plant 21,pothos,Living Room,7,2020-08-16,xxxxxxxxx
+Plant 22,zz-plant,Kitchen,5,2019-01-26,xxxxxxxxxxxxxxx
+Plant 23,pothos,Living Room,7,2024-10-09,x
+Plant 24,monstera,Living Room,14,2025-09-24,xxx
+Plant 25,monstera,Living Room,10,2020-07-15,xxxxxxxxxxxxxxxxxxxx
+Plant 26,zz-plant,Bedroom,10,2022-03-05,xxx
+Plant 27,monstera,Office,5,2020-03-22,xxxxxxxxxx
+Plant 28,snake-plant,Living Room,5,2022-03-24,xxxxxxxx
+Plant 29,zz-plant,Kitchen,14,2021-06-22,xxxxxxxxxxxxxx
+Plant 30,zz-plant,Office,14,2019-11-15,xxxxxxxx
+Plant 31,snake-plant,Bedroom,10,2019-09-03,xxxxxxxxxxxxxxxxxx
+Plant 32,snake-plant,Bedroom,7,2022-11-20,xxxxxxxxxxxxxxx
+Plant 33,zz-plant,Living Room,7,2021-07-19,xxxxxxxxxxxxxxxxxx
+Plant 34,monstera,Living Room,10,2020-08-20,
+Plant 35,monstera,Bedroom,5,2023-12-12,xxxx
+Plant 36,zz-plant,Living Room,10,2020-04-13,xxxxxxxxxxxxxxxxxxxx
+Plant 37,monstera,Kitchen,7,2021-08-18,xxxxxxxxxxx

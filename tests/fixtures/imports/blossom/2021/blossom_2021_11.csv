@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,snake-plant,Bedroom,5,2025-08-04,xxxxxxxxxxxxxxxx
+Plant 1,pothos,Living Room,10,2021-11-12,xxxxxxxxxxxx
+Plant 2,snake-plant,Kitchen,14,2019-06-21,xxxxxxxxxxxx
+Plant 3,pothos,Bedroom,10,2021-04-12,xxxxxxxxxxxxxxxxxx
+Plant 4,zz-plant,Bedroom,5,2022-02-22,xxxxxx
+Plant 5,zz-plant,Office,14,2024-01-15,xxxxxxxxxxxxxxxxxx
+Plant 6,snake-plant,Bedroom,14,2025-08-17,xxxxx
+Plant 7,snake-plant,Office,7,2023-06-03,xxxx
+Plant 8,zz-plant,Kitchen,10,2019-01-25,xxxxxxxxxxx
+Plant 9,zz-plant,Office,10,2024-06-13,xxxxxxxxxxxx
+Plant 10,snake-plant,Bedroom,5,2025-08-24,xxxxxxxxxxxxxx
+Plant 11,monstera,Bedroom,7,2022-08-17,xxxxxxxxxxxxxxxxxxx
+Plant 12,monstera,Office,5,2020-09-09,xxxxx
+Plant 13,snake-plant,Office,5,2021-07-09,xxxxxxxxxxxxxxxxx
+Plant 14,snake-plant,Bedroom,5,2022-01-06,xxxx
+Plant 15,pothos,Bedroom,7,2021-05-26,xxxxxxxxxxxxxx
+Plant 16,pothos,Office,7,2020-04-01,xxxxxxxxxxxxxxxxx
+Plant 17,monstera,Kitchen,7,2020-12-04,xxxxxxxxx
+Plant 18,zz-plant,Bedroom,10,2019-01-01,xxxxxxxxxxxxx
+Plant 19,snake-plant,Kitchen,10,2020-12-08,xxxxxxxxxxxxxxxxxxx
+Plant 20,snake-plant,Office,5,2021-09-12,xxxxxxx
+Plant 21,pothos,Office,7,2020-03-21,xxxxxx
+Plant 22,pothos,Office,14,2019-08-04,xxxxxxxxxxxxxx
+Plant 23,zz-plant,Living Room,5,2022-04-03,xxxxxxxxxxxxxxxx
+Plant 24,zz-plant,Bedroom,5,2025-10-10,
+Plant 25,zz-plant,Living Room,14,2019-10-15,x
+Plant 26,monstera,Kitchen,10,2022-07-04,xxxxxxxxxx
+Plant 27,snake-plant,Kitchen,7,2023-03-13,xxxxxxxxxxxxx
+Plant 28,monstera,Living Room,14,2023-01-28,xx
+Plant 29,pothos,Office,10,2021-05-15,xxxxxxxxxxxxxxxx
+Plant 30,monstera,Living Room,14,2019-08-15,xxxxxxxxxxxxxxxxxx
+Plant 31,pothos,Office,14,2020-05-19,xxx
+Plant 32,monstera,Office,14,2022-01-04,xxxxxxxx
+Plant 33,monstera,Kitchen,5,2023-01-04,xxxxxx
+Plant 34,zz-plant,Living Room,14,2025-11-24,xxxxxxxxxxxxxxxxxxxx
+Plant 35,zz-plant,Bedroom,10,2019-03-08,x
+Plant 36,monstera,Living Room,10,2024-03-07,xxxxx
+Plant 37,pothos,Kitchen,10,2023-12-28,xxxxxxxxxxxxxxxxxxx

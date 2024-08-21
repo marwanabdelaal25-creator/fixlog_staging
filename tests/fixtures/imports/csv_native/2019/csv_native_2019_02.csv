@@ -1,0 +1,40 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,monstera,Kitchen,7,2025-10-08,xx
+Plant 1,pothos,Office,10,2022-08-01,
+Plant 2,pothos,Office,14,2022-10-16,xxxxxxxxxx
+Plant 3,monstera,Living Room,14,2022-12-05,xxxxxxxxxxx
+Plant 4,pothos,Office,5,2025-08-27,xxxx
+Plant 5,monstera,Living Room,7,2023-06-12,xxxxxx
+Plant 6,zz-plant,Bedroom,10,2020-03-07,xxxxxxxxxxxxxxxxxxx
+Plant 7,pothos,Kitchen,14,2022-10-28,xxxxxxxxxxxxxxxxxxx
+Plant 8,pothos,Living Room,5,2022-07-15,xxxxxx
+Plant 9,monstera,Bedroom,5,2019-09-20,xx
+Plant 10,zz-plant,Living Room,5,2024-03-02,xxxxxxxxxxxxxxx
+Plant 11,zz-plant,Kitchen,7,2021-01-10,xxxxxxxxxxxx
+Plant 12,zz-plant,Kitchen,10,2019-11-13,xxxxx
+Plant 13,pothos,Kitchen,14,2021-12-01,xxxxxxxxxxxxx
+Plant 14,zz-plant,Kitchen,7,2023-07-27,xxx
+Plant 15,monstera,Kitchen,5,2021-01-03,xxxxxxxxxxxxxxxxxxx
+Plant 16,snake-plant,Living Room,10,2021-05-14,x
+Plant 17,snake-plant,Kitchen,7,2023-09-19,xxxxx
+Plant 18,snake-plant,Bedroom,14,2025-07-15,xxxxxxxxxxxx
+Plant 19,zz-plant,Office,14,2019-09-17,xxxxxxxxxxxxx
+Plant 20,monstera,Kitchen,7,2023-10-10,xxxxx
+Plant 21,zz-plant,Kitchen,10,2025-06-11,xxxxxxxxxxx
+Plant 22,zz-plant,Kitchen,14,2019-02-07,xxxx
+Plant 23,monstera,Office,14,2021-02-16,x
+Plant 24,snake-plant,Living Room,14,2019-12-06,xxxxxxxxxxxxxx
+Plant 25,zz-plant,Kitchen,7,2022-11-12,xx
+Plant 26,pothos,Office,5,2021-08-04,xxxxxxxxxxxxxxxxx
+Plant 27,snake-plant,Living Room,14,2024-02-15,xxxxxxxxxxxx
+Plant 28,snake-plant,Office,7,2020-11-13,xxxx
+Plant 29,zz-plant,Kitchen,5,2021-03-13,xxxxxxxxxxxxxxx
+Plant 30,snake-plant,Living Room,10,2023-11-10,xxxxxxxxxxxxxxx
+Plant 31,monstera,Office,10,2022-09-02,xxxxxxxxxxxxxxxxxx
+Plant 32,monstera,Living Room,10,2019-06-12,xxxxxxxxxx
+Plant 33,pothos,Office,10,2022-08-24,
+Plant 34,monstera,Bedroom,10,2025-12-04,xxx
+Plant 35,monstera,Living Room,14,2022-01-07,xxxxxxxxxxx
+Plant 36,zz-plant,Bedroom,14,2019-03-22,xxxx
+Plant 37,pothos,Bedroom,14,2020-12-11,xxxxxxxxxxxxxxxx
+Plant 38,monstera,Bedroom,10,2020-04-26,xxxxxxxxxxxxxxx

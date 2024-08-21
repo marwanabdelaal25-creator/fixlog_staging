@@ -1,0 +1,39 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,zz-plant,Office,14,2023-03-12,xxxxxxxxxx
+Plant 1,pothos,Kitchen,10,2019-04-20,xxxxxx
+Plant 2,zz-plant,Kitchen,5,2019-07-15,xxxxxxxxxxxxxxxxxxxx
+Plant 3,snake-plant,Office,7,2019-12-21,xxxxxxxxxxxxxxxxxx
+Plant 4,monstera,Living Room,7,2022-07-05,x
+Plant 5,pothos,Bedroom,14,2021-06-16,
+Plant 6,pothos,Bedroom,7,2019-03-02,xxxxxxxxxxxxxxxxxxxx
+Plant 7,monstera,Office,14,2025-07-22,xxxxxxxxxxxxxxxxxxxx
+Plant 8,snake-plant,Living Room,14,2019-07-09,xxxxxxxxxxxxxxxxx
+Plant 9,pothos,Living Room,7,2023-11-12,xxxxxxxxxxxxxxxx
+Plant 10,zz-plant,Kitchen,7,2025-10-19,xxxxxxxxxxxx
+Plant 11,monstera,Living Room,5,2020-01-27,xxxxx
+Plant 12,snake-plant,Office,7,2021-06-06,xxxxxxxx
+Plant 13,monstera,Office,14,2021-07-20,xxxx
+Plant 14,pothos,Living Room,14,2025-04-06,
+Plant 15,snake-plant,Office,10,2019-07-28,xxxxxxxxxxxxxxxxxx
+Plant 16,pothos,Kitchen,5,2025-09-06,xxxxxxxxxxxxx
+Plant 17,monstera,Bedroom,5,2021-07-17,xxxxxxxx
+Plant 18,zz-plant,Office,7,2020-10-04,x
+Plant 19,snake-plant,Living Room,5,2022-06-11,xxxxxxxxxxxxx
+Plant 20,snake-plant,Living Room,7,2025-03-13,xxxxxx
+Plant 21,zz-plant,Living Room,14,2019-03-26,xxxxxxxxxxxxxx
+Plant 22,pothos,Bedroom,14,2019-03-28,xxxxxxxxxxxxxxxxxx
+Plant 23,monstera,Kitchen,7,2022-01-20,x
+Plant 24,snake-plant,Kitchen,10,2021-01-25,xxxxxxxxxx
+Plant 25,monstera,Bedroom,14,2019-08-16,xxxxxxxxxxxxxx
+Plant 26,pothos,Bedroom,5,2020-03-06,xxxxxxxxxxxxxxxx
+Plant 27,pothos,Living Room,7,2025-09-05,xxxxxxxxxxxx
+Plant 28,monstera,Office,5,2024-11-21,xxxxxxxxxxx
+Plant 29,zz-plant,Office,5,2022-11-07,xxxxxxxxxxxxxxx
+Plant 30,snake-plant,Office,7,2020-10-08,xxxxxxx
+Plant 31,snake-plant,Living Room,14,2025-10-25,xxxxxxxxxxxxxxxxxxx
+Plant 32,snake-plant,Office,10,2021-05-15,xxxxxxxxxxxxxx
+Plant 33,zz-plant,Bedroom,7,2021-01-03,xxxxxxxxxxxxxxxxxx
+Plant 34,snake-plant,Living Room,7,2022-08-20,xxxxxxxxxxxx
+Plant 35,pothos,Office,7,2022-07-02,xxxxxxx
+Plant 36,zz-plant,Office,5,2021-06-14,
+Plant 37,pothos,Living Room,10,2024-10-23,xxxxxxxxxxxxxxxxxx

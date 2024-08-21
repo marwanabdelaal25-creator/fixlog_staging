@@ -1,0 +1,42 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,monstera,Kitchen,7,2022-12-08,xxxxxxxxxxxxxxxxxx
+Plant 1,zz-plant,Kitchen,10,2019-10-13,xxxxxx
+Plant 2,zz-plant,Bedroom,10,2021-01-25,xxxxxxxxxxxx
+Plant 3,pothos,Living Room,7,2019-11-13,xxxxxxxxxxxxxxxxxxxx
+Plant 4,zz-plant,Office,10,2023-01-23,xxxxxxx
+Plant 5,monstera,Office,14,2025-05-28,xxxxxxxxxxxxxxxxxxxx
+Plant 6,zz-plant,Office,7,2024-03-08,xxxx
+Plant 7,pothos,Living Room,14,2023-10-28,xxxxxxxxxxxx
+Plant 8,snake-plant,Office,10,2022-04-10,xxxxxxxxxxxxx
+Plant 9,zz-plant,Bedroom,14,2022-01-07,xxxxxx
+Plant 10,pothos,Office,10,2019-04-07,xxxxx
+Plant 11,monstera,Office,5,2025-04-23,xxxxxxx
+Plant 12,zz-plant,Bedroom,14,2025-04-06,xxxxxxxxxxxxxxxx
+Plant 13,pothos,Office,10,2024-06-02,xxxxxxxxxxxxx
+Plant 14,zz-plant,Living Room,7,2025-01-24,xxxxxxxxxxxxxxxxxx
+Plant 15,pothos,Living Room,7,2022-12-15,xxxxxxxxxxxxx
+Plant 16,pothos,Bedroom,14,2019-12-24,xxxxxxxxxxxxxxxxxx
+Plant 17,monstera,Office,14,2019-03-09,xx
+Plant 18,snake-plant,Living Room,14,2022-01-03,xxxxxxxxxxxxx
+Plant 19,snake-plant,Office,10,2024-07-23,xx
+Plant 20,zz-plant,Living Room,14,2020-01-05,x
+Plant 21,zz-plant,Kitchen,10,2024-10-16,xxxxxxxxxxxxxxxxx
+Plant 22,monstera,Kitchen,10,2020-07-18,xxxxx
+Plant 23,pothos,Bedroom,10,2023-06-09,
+Plant 24,zz-plant,Living Room,10,2023-10-07,xxxxx
+Plant 25,snake-plant,Kitchen,7,2025-11-06,xxxxxxxxxxxxxxxx
+Plant 26,snake-plant,Kitchen,14,2022-08-09,xxxxxxxxxx
+Plant 27,pothos,Bedroom,10,2023-11-05,xxxxxxx
+Plant 28,monstera,Office,7,2020-12-23,xxxxxxxx
+Plant 29,zz-plant,Kitchen,5,2021-04-17,xxxxxxxxxxxx
+Plant 30,snake-plant,Kitchen,14,2019-06-23,xxxxxxxxxxxxxxxxxx
+Plant 31,zz-plant,Kitchen,14,2022-01-07,
+Plant 32,monstera,Living Room,5,2024-09-20,xxxxxxxxxxxxxxxxxxxx
+Plant 33,zz-plant,Office,10,2025-06-11,xxxxxx
+Plant 34,snake-plant,Bedroom,14,2025-12-04,xxxxxxxxxxxxxxxxxxx
+Plant 35,zz-plant,Bedroom,14,2022-01-22,xxxxxxxx
+Plant 36,monstera,Kitchen,10,2023-09-11,
+Plant 37,snake-plant,Kitchen,5,2019-05-15,xxxxxxxxxxxx
+Plant 38,monstera,Living Room,10,2024-03-13,xxxxxxxxxxxxxx
+Plant 39,pothos,Bedroom,10,2025-11-24,
+Plant 40,monstera,Kitchen,14,2022-07-14,xxxxxxx

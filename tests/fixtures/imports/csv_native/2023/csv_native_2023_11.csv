@@ -1,0 +1,40 @@
+name,species_key,location,water_interval_days,last_watered,notes
+Plant 0,snake-plant,Bedroom,10,2021-10-21,xxxx
+Plant 1,pothos,Office,10,2022-10-08,xx
+Plant 2,snake-plant,Bedroom,10,2024-03-12,xxxxxxxxxxxx
+Plant 3,pothos,Bedroom,5,2022-12-18,xxxxxxxxxxxxxxxxxxxx
+Plant 4,zz-plant,Kitchen,5,2025-10-17,xxxxxxxxxxxxxxxxxxxx
+Plant 5,zz-plant,Office,7,2025-05-17,x
+Plant 6,zz-plant,Kitchen,14,2024-12-08,xxxxxxxxxxx
+Plant 7,snake-plant,Office,14,2025-01-22,xxxxxxxxxx
+Plant 8,zz-plant,Bedroom,7,2021-01-10,xxxxxxxxxxxxxxxxxx
+Plant 9,pothos,Living Room,10,2022-05-09,xxxxxxx
+Plant 10,snake-plant,Kitchen,5,2019-01-25,xxxxxxxxxxxxxxxxx
+Plant 11,snake-plant,Office,7,2022-11-07,xxxxxxxxxxxxx
+Plant 12,zz-plant,Office,14,2019-10-05,x
+Plant 13,snake-plant,Bedroom,14,2023-04-18,xxxxxxxxxxxxx
+Plant 14,snake-plant,Living Room,7,2022-06-14,xxxxxx
+Plant 15,snake-plant,Bedroom,5,2025-11-13,xxxxxx
+Plant 16,monstera,Bedroom,7,2025-10-07,xxxxxx
+Plant 17,zz-plant,Kitchen,5,2021-08-18,xxxxxxxxxxx
+Plant 18,pothos,Living Room,7,2022-03-21,xxxxxxxxxxxx
+Plant 19,pothos,Bedroom,14,2023-02-23,xx
+Plant 20,monstera,Kitchen,7,2021-03-23,xxxxx
+Plant 21,pothos,Bedroom,5,2019-10-11,xxxxx
+Plant 22,pothos,Bedroom,14,2023-02-22,xxxxxxxxxxxx
+Plant 23,pothos,Living Room,14,2021-04-04,xxxx
+Plant 24,monstera,Office,14,2020-06-16,xxxxxxxxxxxxxxxxxxxx
+Plant 25,monstera,Bedroom,7,2021-06-20,xx
+Plant 26,pothos,Office,14,2024-08-08,xxxxxxxxxxxxxxx
+Plant 27,snake-plant,Living Room,5,2024-06-11,xxxxxxxxxxxxxxx
+Plant 28,zz-plant,Kitchen,5,2021-03-27,xxxxxxxxxx
+Plant 29,pothos,Living Room,5,2022-08-04,xxxxxxxxxxxxxxxxxxx
+Plant 30,snake-plant,Kitchen,5,2023-12-11,xxxxxxxxxxxxxxx
+Plant 31,pothos,Bedroom,5,2024-04-04,xxxxxxxxxxxxxx
+Plant 32,snake-plant,Kitchen,14,2023-08-16,xxxxxxx
+Plant 33,zz-plant,Living Room,5,2019-12-14,xxxxxxxx
+Plant 34,snake-plant,Kitchen,10,2021-02-04,xxxxxxxxx
+Plant 35,monstera,Bedroom,14,2019-01-28,xx
+Plant 36,pothos,Office,5,2022-06-16,xx
+Plant 37,zz-plant,Kitchen,14,2023-08-25,xxxxxxxxxx
+Plant 38,monstera,Office,7,2023-11-04,xxxxxxxxxxx

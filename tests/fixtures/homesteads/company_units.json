@@ -1,0 +1,1693 @@
+{
+"schema_version": 2,
+"meta": {
+"name": "company_units",
+"persona": "family_duplex"
+},
+"dwellings": [
+{
+"id": "dw-2019-000000",
+"name": "Sample Landscape Pro #0",
+"contractor_key": "window-shop",
+"zone_id": "zn-basement",
+"repair_interval_days": 90,
+"last_repaired": "2019-08-29",
+"purchase_date": "2019-08-25",
+"labor_hours": 8,
+"tag_ids": [
+"tag-6"
+],
+"notes": "rental unit"
+},
+{
+"id": "dw-2016-000001",
+"name": "Old Landscape Pro #1",
+"contractor_key": "handyman-dan",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 30,
+"last_repaired": "2016-03-07",
+"purchase_date": "2016-03-06",
+"labor_hours": 4,
+"tag_ids": [
+"tag-4",
+"tag-4"
+],
+"notes": ""
+},
+{
+"id": "dw-2016-000002",
+"name": "Old Roof Guy #2",
+"contractor_key": "plumber-mike",
+"zone_id": "zn-basement",
+"repair_interval_days": 90,
+"last_repaired": "2016-05-05",
+"purchase_date": "2016-04-07",
+"labor_hours": 4,
+"tag_ids": [],
+"notes": "guest house"
+},
+{
+"id": "dw-2021-000003",
+"name": "Sample Roof Guy #3",
+"contractor_key": "handyman-dan",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 365,
+"last_repaired": "2021-11-16",
+"purchase_date": "2021-08-11",
+"labor_hours": 2,
+"tag_ids": [
+"tag-1"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2022-000004",
+"name": "Backup Plumber Mike #4",
+"contractor_key": "window-shop",
+"zone_id": "zn-attic",
+"repair_interval_days": 180,
+"last_repaired": "2022-11-12",
+"purchase_date": "2022-08-17",
+"labor_hours": 1,
+"tag_ids": [
+"tag-4",
+"tag-7"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2022-000005",
+"name": "Backup Electric Co #5",
+"contractor_key": "window-shop",
+"zone_id": "zn-hvac-closet",
+"repair_interval_days": 30,
+"last_repaired": "2022-04-23",
+"purchase_date": "2022-04-20",
+"labor_hours": 1,
+"tag_ids": [
+"tag-11"
+],
+"notes": "rental unit"
+},
+{
+"id": "dw-2023-000006",
+"name": "Resting Handyman Dan #6",
+"contractor_key": "local-hvac",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 365,
+"last_repaired": "2024-02-13",
+"purchase_date": "2023-10-27",
+"labor_hours": 2,
+"tag_ids": [
+"tag-6"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2021-000007",
+"name": "Sample Local Hvac #7",
+"contractor_key": "pest-control",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 30,
+"last_repaired": "2021-03-31",
+"purchase_date": "2021-03-21",
+"labor_hours": 4,
+"tag_ids": [
+"tag-9"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2015-000008",
+"name": "Sample Landscape Pro #8",
+"contractor_key": "electric-co",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 60,
+"last_repaired": "2015-02-07",
+"purchase_date": "2015-01-16",
+"labor_hours": 2,
+"tag_ids": [
+"tag-1",
+"tag-2"
+],
+"notes": "rental unit"
+},
+{
+"id": "dw-2024-000009",
+"name": "Fresh Gutter Crew #9",
+"contractor_key": "plumber-mike",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 30,
+"last_repaired": "2024-12-16",
+"purchase_date": "2024-12-05",
+"labor_hours": 2,
+"tag_ids": [
+"tag-4",
+"tag-5"
+],
+"notes": "rental unit"
+},
+{
+"id": "dw-2021-000010",
+"name": "Fresh Pest Control #10",
+"contractor_key": "window-shop",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 60,
+"last_repaired": "2021-12-11",
+"purchase_date": "2021-11-11",
+"labor_hours": 2,
+"tag_ids": [
+"tag-3"
+],
+"notes": ""
+},
+{
+"id": "dw-2020-000011",
+"name": "Fresh Handyman Dan #11",
+"contractor_key": "gutter-crew",
+"zone_id": "zn-basement",
+"repair_interval_days": 90,
+"last_repaired": "2020-01-13",
+"purchase_date": "2020-01-07",
+"labor_hours": 2,
+"tag_ids": [],
+"notes": ""
+},
+{
+"id": "dw-2022-000012",
+"name": "Resting Plumber Mike #12",
+"contractor_key": "gutter-crew",
+"zone_id": "zn-attic",
+"repair_interval_days": 30,
+"last_repaired": "2022-02-17",
+"purchase_date": "2022-02-04",
+"labor_hours": 2,
+"tag_ids": [],
+"notes": "guest house"
+},
+{
+"id": "dw-2017-000013",
+"name": "Peak Roof Guy #13",
+"contractor_key": "landscape-pro",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 60,
+"last_repaired": "2017-04-10",
+"purchase_date": "2017-03-17",
+"labor_hours": 2,
+"tag_ids": [],
+"notes": "rental unit"
+},
+{
+"id": "dw-2023-000014",
+"name": "Old Pest Control #14",
+"contractor_key": "electric-co",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 30,
+"last_repaired": "2023-02-18",
+"purchase_date": "2023-02-06",
+"labor_hours": 1,
+"tag_ids": [
+"tag-2",
+"tag-12"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2022-000015",
+"name": "Old Window Shop #15",
+"contractor_key": "handyman-dan",
+"zone_id": "zn-basement",
+"repair_interval_days": 365,
+"last_repaired": "2022-04-25",
+"purchase_date": "2022-04-20",
+"labor_hours": 2,
+"tag_ids": [
+"tag-2"
+],
+"notes": ""
+},
+{
+"id": "dw-2015-000016",
+"name": "Resting Pest Control #16",
+"contractor_key": "appliance-fix",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 60,
+"last_repaired": "2015-04-29",
+"purchase_date": "2015-04-04",
+"labor_hours": 2,
+"tag_ids": [
+"tag-7"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2024-000017",
+"name": "Fresh Local Hvac #17",
+"contractor_key": "pest-control",
+"zone_id": "zn-basement",
+"repair_interval_days": 90,
+"last_repaired": "2024-03-16",
+"purchase_date": "2024-02-18",
+"labor_hours": 1,
+"tag_ids": [],
+"notes": "guest house"
+},
+{
+"id": "dw-2017-000018",
+"name": "Peak Landscape Pro #18",
+"contractor_key": "plumber-mike",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 30,
+"last_repaired": "2017-02-16",
+"purchase_date": "2017-02-16",
+"labor_hours": 8,
+"tag_ids": [],
+"notes": "rental unit"
+},
+{
+"id": "dw-2018-000019",
+"name": "Old Window Shop #19",
+"contractor_key": "roof-guy",
+"zone_id": "zn-attic",
+"repair_interval_days": 60,
+"last_repaired": "2018-11-08",
+"purchase_date": "2018-10-16",
+"labor_hours": 1,
+"tag_ids": [
+"tag-11"
+],
+"notes": "rental unit"
+},
+{
+"id": "dw-2015-000020",
+"name": "Old Appliance Fix #20",
+"contractor_key": "window-shop",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 365,
+"last_repaired": "2016-01-19",
+"purchase_date": "2015-12-24",
+"labor_hours": 1,
+"tag_ids": [
+"tag-7",
+"tag-3"
+],
+"notes": ""
+},
+{
+"id": "dw-2015-000021",
+"name": "Sample Gutter Crew #21",
+"contractor_key": "gutter-crew",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 180,
+"last_repaired": "2015-08-03",
+"purchase_date": "2015-07-26",
+"labor_hours": 4,
+"tag_ids": [],
+"notes": "rental unit"
+},
+{
+"id": "dw-2025-000022",
+"name": "Old Electric Co #22",
+"contractor_key": "local-hvac",
+"zone_id": "zn-attic",
+"repair_interval_days": 60,
+"last_repaired": "2025-09-17",
+"purchase_date": "2025-08-23",
+"labor_hours": 4,
+"tag_ids": [],
+"notes": ""
+},
+{
+"id": "dw-2015-000023",
+"name": "Backup Local Hvac #23",
+"contractor_key": "plumber-mike",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 365,
+"last_repaired": "2016-01-22",
+"purchase_date": "2015-10-08",
+"labor_hours": 1,
+"tag_ids": [],
+"notes": ""
+},
+{
+"id": "dw-2025-000024",
+"name": "Old Electric Co #24",
+"contractor_key": "window-shop",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 60,
+"last_repaired": "2025-04-18",
+"purchase_date": "2025-03-19",
+"labor_hours": 2,
+"tag_ids": [],
+"notes": "weekend place"
+},
+{
+"id": "dw-2019-000025",
+"name": "Resting Gutter Crew #25",
+"contractor_key": "local-hvac",
+"zone_id": "zn-basement",
+"repair_interval_days": 180,
+"last_repaired": "2019-10-27",
+"purchase_date": "2019-10-20",
+"labor_hours": 1,
+"tag_ids": [],
+"notes": "guest house"
+},
+{
+"id": "dw-2018-000026",
+"name": "Fresh Gutter Crew #26",
+"contractor_key": "pest-control",
+"zone_id": "zn-basement",
+"repair_interval_days": 90,
+"last_repaired": "2018-04-15",
+"purchase_date": "2018-03-02",
+"labor_hours": 1,
+"tag_ids": [
+"tag-2",
+"tag-12"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2019-000027",
+"name": "Peak Roof Guy #27",
+"contractor_key": "local-hvac",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 60,
+"last_repaired": "2019-07-08",
+"purchase_date": "2019-07-06",
+"labor_hours": 2,
+"tag_ids": [],
+"notes": "weekend place"
+},
+{
+"id": "dw-2018-000028",
+"name": "Old Window Shop #28",
+"contractor_key": "handyman-dan",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 60,
+"last_repaired": "2018-10-25",
+"purchase_date": "2018-10-23",
+"labor_hours": 4,
+"tag_ids": [
+"tag-1",
+"tag-10"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2025-000029",
+"name": "Peak Gutter Crew #29",
+"contractor_key": "pest-control",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 180,
+"last_repaired": "2025-08-04",
+"purchase_date": "2025-08-02",
+"labor_hours": 1,
+"tag_ids": [],
+"notes": "guest house"
+},
+{
+"id": "dw-2019-000030",
+"name": "Backup Gutter Crew #30",
+"contractor_key": "electric-co",
+"zone_id": "zn-basement",
+"repair_interval_days": 60,
+"last_repaired": "2019-04-26",
+"purchase_date": "2019-04-19",
+"labor_hours": 1,
+"tag_ids": [],
+"notes": "rental unit"
+},
+{
+"id": "dw-2025-000031",
+"name": "Backup Appliance Fix #31",
+"contractor_key": "roof-guy",
+"zone_id": "zn-attic",
+"repair_interval_days": 180,
+"last_repaired": "2025-07-30",
+"purchase_date": "2025-05-25",
+"labor_hours": 1,
+"tag_ids": [
+"tag-2"
+],
+"notes": ""
+},
+{
+"id": "dw-2022-000032",
+"name": "Peak Pest Control #32",
+"contractor_key": "window-shop",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 180,
+"last_repaired": "2022-07-28",
+"purchase_date": "2022-07-10",
+"labor_hours": 8,
+"tag_ids": [
+"tag-12",
+"tag-4"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2023-000033",
+"name": "Peak Roof Guy #33",
+"contractor_key": "electric-co",
+"zone_id": "zn-basement",
+"repair_interval_days": 30,
+"last_repaired": "2023-10-19",
+"purchase_date": "2023-10-16",
+"labor_hours": 1,
+"tag_ids": [
+"tag-7",
+"tag-6"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2021-000034",
+"name": "Old Roof Guy #34",
+"contractor_key": "landscape-pro",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 60,
+"last_repaired": "2021-01-26",
+"purchase_date": "2021-01-18",
+"labor_hours": 8,
+"tag_ids": [
+"tag-1"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2019-000035",
+"name": "Old Pest Control #35",
+"contractor_key": "appliance-fix",
+"zone_id": "zn-basement",
+"repair_interval_days": 180,
+"last_repaired": "2020-02-08",
+"purchase_date": "2019-12-11",
+"labor_hours": 8,
+"tag_ids": [
+"tag-12"
+],
+"notes": "weekend place"
+},
+{
+"id": "dw-2016-000036",
+"name": "Old Landscape Pro #36",
+"contractor_key": "handyman-dan",
+"zone_id": "zn-garage-zone",
+"repair_interval_days": 60,
+"last_repaired": "2016-05-04",
+"purchase_date": "2016-04-27",
+"labor_hours": 1,
+"tag_ids": [],
+"notes": ""
+},
+{
+"id": "dw-2019-000037",
+"name": "Fresh Gutter Crew #37",
+"contractor_key": "electric-co",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 90,
+"last_repaired": "2019-03-08",
+"purchase_date": "2019-02-13",
+"labor_hours": 1,
+"tag_ids": [
+"tag-9"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2021-000038",
+"name": "Resting Plumber Mike #38",
+"contractor_key": "gutter-crew",
+"zone_id": "zn-hvac-closet",
+"repair_interval_days": 365,
+"last_repaired": "2021-11-06",
+"purchase_date": "2021-06-14",
+"labor_hours": 2,
+"tag_ids": [
+"tag-9",
+"tag-8"
+],
+"notes": "guest house"
+},
+{
+"id": "dw-2021-000039",
+"name": "Peak Landscape Pro #39",
+"contractor_key": "pest-control",
+"zone_id": "zn-basement",
+"repair_interval_days": 60,
+"last_repaired": "2021-12-06",
+"purchase_date": "2021-11-10",
+"labor_hours": 8,
+"tag_ids": [
+"tag-12"
+],
+"notes": "rental unit"
+},
+{
+"id": "dw-2018-000040",
+"name": "Backup Roof Guy #40",
+"contractor_key": "roof-guy",
+"zone_id": "zn-attic",
+"repair_interval_days": 60,
+"last_repaired": "2018-08-19",
+"purchase_date": "2018-08-16",
+"labor_hours": 4,
+"tag_ids": [],
+"notes": "rental unit"
+},
+{
+"id": "dw-2019-000041",
+"name": "Old Gutter Crew #41",
+"contractor_key": "roof-guy",
+"zone_id": "zn-utility-room",
+"repair_interval_days": 90,
+"last_repaired": "2019-04-28",
+"purchase_date": "2019-03-17",
+"labor_hours": 4,
+"tag_ids": [],
+"notes": ""
+},
+{
+"id": "dw-2022-000042",
+"name": "Resting Local Hvac #42",
+"contractor_key": "electric-co",
+"zone_id": "zn-kitchen",
+"repair_interval_days": 90,
+"last_repaired": "2022-11-24",
+"purchase_date": "2022-11-04",
+"labor_hours": 4,
+"tag_ids": [
+"tag-4",
+"tag-8"
+],
+"notes": "weekend place"
+}
+],
+"contractors": [
+{
+"key": "local-hvac",
+"name": "Local Hvac"
+},
+{
+"key": "roof-guy",
+"name": "Roof Guy"
+},
+{
+"key": "plumber-mike",
+"name": "Plumber Mike"
+},
+{
+"key": "electric-co",
+"name": "Electric Co"
+},
+{
+"key": "handyman-dan",
+"name": "Handyman Dan"
+},
+{
+"key": "window-shop",
+"name": "Window Shop"
+},
+{
+"key": "gutter-crew",
+"name": "Gutter Crew"
+},
+{
+"key": "appliance-fix",
+"name": "Appliance Fix"
+},
+{
+"key": "pest-control",
+"name": "Pest Control"
+},
+{
+"key": "landscape-pro",
+"name": "Landscape Pro"
+}
+],
+"zones": [
+{
+"id": "zn-kitchen",
+"name": "kitchen"
+},
+{
+"id": "zn-basement",
+"name": "basement"
+},
+{
+"id": "zn-attic",
+"name": "attic"
+},
+{
+"id": "zn-garage-zone",
+"name": "garage-zone"
+},
+{
+"id": "zn-hvac-closet",
+"name": "hvac-closet"
+},
+{
+"id": "zn-utility-room",
+"name": "utility-room"
+}
+],
+"repair_events": [
+{
+"id": "rp-040585",
+"dwelling_id": "dw-2015-000021",
+"repaired_at": "2015-07-05",
+"method": "smoke_detector",
+"labor_hours": 4,
+"supplies_cost": 165
+},
+{
+"id": "rp-253462",
+"dwelling_id": "dw-2025-000029",
+"repaired_at": "2025-07-05",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 259
+},
+{
+"id": "rp-400149",
+"dwelling_id": "dw-2016-000001",
+"repaired_at": "2016-02-29",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 232
+},
+{
+"id": "rp-607696",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-02-06",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 166
+},
+{
+"id": "rp-667653",
+"dwelling_id": "dw-2018-000028",
+"repaired_at": "2018-10-16",
+"method": "gutter_clean",
+"labor_hours": 4,
+"supplies_cost": 207
+},
+{
+"id": "rp-299513",
+"dwelling_id": "dw-2025-000022",
+"repaired_at": "2025-08-27",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 219
+},
+{
+"id": "rp-360450",
+"dwelling_id": "dw-2019-000000",
+"repaired_at": "2019-08-03",
+"method": "hvac_filter",
+"labor_hours": 8,
+"supplies_cost": 225
+},
+{
+"id": "rp-123609",
+"dwelling_id": "dw-2025-000022",
+"repaired_at": "2025-09-17",
+"method": "outlet_test",
+"labor_hours": 4,
+"supplies_cost": 90
+},
+{
+"id": "rp-828218",
+"dwelling_id": "dw-2024-000009",
+"repaired_at": "2024-11-19",
+"method": "outlet_test",
+"labor_hours": 2,
+"supplies_cost": 396
+},
+{
+"id": "rp-243893",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-03-06",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 445
+},
+{
+"id": "rp-305413",
+"dwelling_id": "dw-2018-000026",
+"repaired_at": "2018-04-05",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 154
+},
+{
+"id": "rp-300452",
+"dwelling_id": "dw-2021-000003",
+"repaired_at": "2021-11-03",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 389
+},
+{
+"id": "rp-179075",
+"dwelling_id": "dw-2023-000006",
+"repaired_at": "2024-01-18",
+"method": "smoke_detector",
+"labor_hours": 2,
+"supplies_cost": 170
+},
+{
+"id": "rp-663644",
+"dwelling_id": "dw-2018-000026",
+"repaired_at": "2018-04-10",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 190
+},
+{
+"id": "rp-005930",
+"dwelling_id": "dw-2025-000022",
+"repaired_at": "2025-08-22",
+"method": "smoke_detector",
+"labor_hours": 4,
+"supplies_cost": 152
+},
+{
+"id": "rp-799073",
+"dwelling_id": "dw-2024-000017",
+"repaired_at": "2024-02-28",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 177
+},
+{
+"id": "rp-207565",
+"dwelling_id": "dw-2023-000006",
+"repaired_at": "2024-02-04",
+"method": "gutter_clean",
+"labor_hours": 2,
+"supplies_cost": 70
+},
+{
+"id": "rp-808167",
+"dwelling_id": "dw-2015-000016",
+"repaired_at": "2015-04-06",
+"method": "smoke_detector",
+"labor_hours": 2,
+"supplies_cost": 445
+},
+{
+"id": "rp-737536",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-02-21",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 28
+},
+{
+"id": "rp-837890",
+"dwelling_id": "dw-2019-000000",
+"repaired_at": "2019-08-05",
+"method": "gutter_clean",
+"labor_hours": 8,
+"supplies_cost": 184
+},
+{
+"id": "rp-198743",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-03-01",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 111
+},
+{
+"id": "rp-709740",
+"dwelling_id": "dw-2022-000015",
+"repaired_at": "2022-04-04",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 300
+},
+{
+"id": "rp-080984",
+"dwelling_id": "dw-2021-000038",
+"repaired_at": "2021-10-16",
+"method": "gutter_clean",
+"labor_hours": 2,
+"supplies_cost": 301
+},
+{
+"id": "rp-771911",
+"dwelling_id": "dw-2018-000040",
+"repaired_at": "2018-07-21",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 63
+},
+{
+"id": "rp-810540",
+"dwelling_id": "dw-2019-000035",
+"repaired_at": "2020-02-05",
+"method": "gutter_clean",
+"labor_hours": 8,
+"supplies_cost": 224
+},
+{
+"id": "rp-456856",
+"dwelling_id": "dw-2016-000036",
+"repaired_at": "2016-04-15",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 176
+},
+{
+"id": "rp-819628",
+"dwelling_id": "dw-2024-000009",
+"repaired_at": "2024-12-08",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 148
+},
+{
+"id": "rp-539753",
+"dwelling_id": "dw-2022-000042",
+"repaired_at": "2022-11-04",
+"method": "gutter_clean",
+"labor_hours": 4,
+"supplies_cost": 62
+},
+{
+"id": "rp-850828",
+"dwelling_id": "dw-2018-000028",
+"repaired_at": "2018-10-21",
+"method": "water_heater_flush",
+"labor_hours": 4,
+"supplies_cost": 243
+},
+{
+"id": "rp-245980",
+"dwelling_id": "dw-2022-000005",
+"repaired_at": "2022-04-18",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 52
+},
+{
+"id": "rp-738794",
+"dwelling_id": "dw-2018-000019",
+"repaired_at": "2018-11-05",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 246
+},
+{
+"id": "rp-020452",
+"dwelling_id": "dw-2024-000017",
+"repaired_at": "2024-02-25",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 198
+},
+{
+"id": "rp-447578",
+"dwelling_id": "dw-2022-000004",
+"repaired_at": "2022-11-11",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 172
+},
+{
+"id": "rp-756905",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-28",
+"method": "water_heater_flush",
+"labor_hours": 4,
+"supplies_cost": 286
+},
+{
+"id": "rp-860058",
+"dwelling_id": "dw-2021-000003",
+"repaired_at": "2021-10-22",
+"method": "smoke_detector",
+"labor_hours": 2,
+"supplies_cost": 409
+},
+{
+"id": "rp-494444",
+"dwelling_id": "dw-2015-000023",
+"repaired_at": "2016-01-14",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 341
+},
+{
+"id": "rp-179265",
+"dwelling_id": "dw-2021-000034",
+"repaired_at": "2021-01-03",
+"method": "hvac_filter",
+"labor_hours": 8,
+"supplies_cost": 327
+},
+{
+"id": "rp-816871",
+"dwelling_id": "dw-2021-000034",
+"repaired_at": "2021-01-24",
+"method": "outlet_test",
+"labor_hours": 8,
+"supplies_cost": 94
+},
+{
+"id": "rp-484909",
+"dwelling_id": "dw-2017-000018",
+"repaired_at": "2017-02-09",
+"method": "gutter_clean",
+"labor_hours": 8,
+"supplies_cost": 177
+},
+{
+"id": "rp-209062",
+"dwelling_id": "dw-2024-000017",
+"repaired_at": "2024-02-26",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 188
+},
+{
+"id": "rp-464758",
+"dwelling_id": "dw-2022-000005",
+"repaired_at": "2022-04-14",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 215
+},
+{
+"id": "rp-869290",
+"dwelling_id": "dw-2019-000041",
+"repaired_at": "2019-04-06",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 435
+},
+{
+"id": "rp-077757",
+"dwelling_id": "dw-2022-000005",
+"repaired_at": "2022-03-28",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 79
+},
+{
+"id": "rp-836332",
+"dwelling_id": "dw-2022-000042",
+"repaired_at": "2022-11-12",
+"method": "smoke_detector",
+"labor_hours": 4,
+"supplies_cost": 238
+},
+{
+"id": "rp-888650",
+"dwelling_id": "dw-2015-000020",
+"repaired_at": "2015-12-30",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 185
+},
+{
+"id": "rp-505205",
+"dwelling_id": "dw-2019-000025",
+"repaired_at": "2019-10-04",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 110
+},
+{
+"id": "rp-057486",
+"dwelling_id": "dw-2019-000025",
+"repaired_at": "2019-09-28",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 444
+},
+{
+"id": "rp-492050",
+"dwelling_id": "dw-2025-000031",
+"repaired_at": "2025-07-05",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 376
+},
+{
+"id": "rp-770232",
+"dwelling_id": "dw-2021-000010",
+"repaired_at": "2021-12-08",
+"method": "outlet_test",
+"labor_hours": 2,
+"supplies_cost": 301
+},
+{
+"id": "rp-012272",
+"dwelling_id": "dw-2019-000025",
+"repaired_at": "2019-10-07",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 140
+},
+{
+"id": "rp-096612",
+"dwelling_id": "dw-2019-000025",
+"repaired_at": "2019-10-14",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 188
+},
+{
+"id": "rp-217319",
+"dwelling_id": "dw-2019-000025",
+"repaired_at": "2019-10-05",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 310
+},
+{
+"id": "rp-681919",
+"dwelling_id": "dw-2022-000042",
+"repaired_at": "2022-10-25",
+"method": "gutter_clean",
+"labor_hours": 4,
+"supplies_cost": 294
+},
+{
+"id": "rp-747117",
+"dwelling_id": "dw-2019-000035",
+"repaired_at": "2020-01-25",
+"method": "outlet_test",
+"labor_hours": 8,
+"supplies_cost": 333
+},
+{
+"id": "rp-788129",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-21",
+"method": "water_heater_flush",
+"labor_hours": 4,
+"supplies_cost": 75
+},
+{
+"id": "rp-904906",
+"dwelling_id": "dw-2018-000019",
+"repaired_at": "2018-10-15",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 334
+},
+{
+"id": "rp-807300",
+"dwelling_id": "dw-2017-000018",
+"repaired_at": "2017-02-08",
+"method": "water_heater_flush",
+"labor_hours": 8,
+"supplies_cost": 429
+},
+{
+"id": "rp-336846",
+"dwelling_id": "dw-2019-000030",
+"repaired_at": "2019-04-06",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 274
+},
+{
+"id": "rp-497090",
+"dwelling_id": "dw-2017-000013",
+"repaired_at": "2017-03-17",
+"method": "outlet_test",
+"labor_hours": 2,
+"supplies_cost": 37
+},
+{
+"id": "rp-142416",
+"dwelling_id": "dw-2023-000033",
+"repaired_at": "2023-10-15",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 295
+},
+{
+"id": "rp-354417",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-21",
+"method": "water_heater_flush",
+"labor_hours": 4,
+"supplies_cost": 196
+},
+{
+"id": "rp-403701",
+"dwelling_id": "dw-2016-000002",
+"repaired_at": "2016-04-11",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 367
+},
+{
+"id": "rp-849812",
+"dwelling_id": "dw-2019-000041",
+"repaired_at": "2019-04-10",
+"method": "gutter_clean",
+"labor_hours": 4,
+"supplies_cost": 356
+},
+{
+"id": "rp-947556",
+"dwelling_id": "dw-2021-000003",
+"repaired_at": "2021-11-06",
+"method": "hvac_filter",
+"labor_hours": 2,
+"supplies_cost": 319
+},
+{
+"id": "rp-993782",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-02-13",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 195
+},
+{
+"id": "rp-736987",
+"dwelling_id": "dw-2015-000021",
+"repaired_at": "2015-07-29",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 308
+},
+{
+"id": "rp-362450",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-20",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 75
+},
+{
+"id": "rp-535652",
+"dwelling_id": "dw-2015-000020",
+"repaired_at": "2015-12-26",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 349
+},
+{
+"id": "rp-484409",
+"dwelling_id": "dw-2019-000035",
+"repaired_at": "2020-02-01",
+"method": "hvac_filter",
+"labor_hours": 8,
+"supplies_cost": 241
+},
+{
+"id": "rp-939108",
+"dwelling_id": "dw-2022-000032",
+"repaired_at": "2022-07-08",
+"method": "smoke_detector",
+"labor_hours": 8,
+"supplies_cost": 362
+},
+{
+"id": "rp-170348",
+"dwelling_id": "dw-2022-000042",
+"repaired_at": "2022-11-01",
+"method": "smoke_detector",
+"labor_hours": 4,
+"supplies_cost": 189
+},
+{
+"id": "rp-486396",
+"dwelling_id": "dw-2021-000003",
+"repaired_at": "2021-11-12",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 374
+},
+{
+"id": "rp-271308",
+"dwelling_id": "dw-2023-000033",
+"repaired_at": "2023-09-21",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 235
+},
+{
+"id": "rp-037831",
+"dwelling_id": "dw-2025-000024",
+"repaired_at": "2025-03-23",
+"method": "gutter_clean",
+"labor_hours": 2,
+"supplies_cost": 154
+},
+{
+"id": "rp-322757",
+"dwelling_id": "dw-2025-000029",
+"repaired_at": "2025-07-05",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 38
+},
+{
+"id": "rp-250916",
+"dwelling_id": "dw-2019-000025",
+"repaired_at": "2019-10-11",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 195
+},
+{
+"id": "rp-252248",
+"dwelling_id": "dw-2022-000015",
+"repaired_at": "2022-04-02",
+"method": "hvac_filter",
+"labor_hours": 2,
+"supplies_cost": 367
+},
+{
+"id": "rp-565011",
+"dwelling_id": "dw-2022-000004",
+"repaired_at": "2022-11-04",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 445
+},
+{
+"id": "rp-884765",
+"dwelling_id": "dw-2019-000030",
+"repaired_at": "2019-04-12",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 207
+},
+{
+"id": "rp-539983",
+"dwelling_id": "dw-2016-000001",
+"repaired_at": "2016-02-25",
+"method": "outlet_test",
+"labor_hours": 4,
+"supplies_cost": 252
+},
+{
+"id": "rp-994020",
+"dwelling_id": "dw-2020-000011",
+"repaired_at": "2019-12-17",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 422
+},
+{
+"id": "rp-473332",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-02-27",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 367
+},
+{
+"id": "rp-154976",
+"dwelling_id": "dw-2025-000029",
+"repaired_at": "2025-07-11",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 158
+},
+{
+"id": "rp-036869",
+"dwelling_id": "dw-2019-000041",
+"repaired_at": "2019-04-02",
+"method": "outlet_test",
+"labor_hours": 4,
+"supplies_cost": 288
+},
+{
+"id": "rp-916140",
+"dwelling_id": "dw-2015-000023",
+"repaired_at": "2015-12-29",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 196
+},
+{
+"id": "rp-562979",
+"dwelling_id": "dw-2018-000028",
+"repaired_at": "2018-10-06",
+"method": "outlet_test",
+"labor_hours": 4,
+"supplies_cost": 244
+},
+{
+"id": "rp-438420",
+"dwelling_id": "dw-2016-000001",
+"repaired_at": "2016-02-16",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 204
+},
+{
+"id": "rp-984364",
+"dwelling_id": "dw-2016-000002",
+"repaired_at": "2016-04-13",
+"method": "water_heater_flush",
+"labor_hours": 4,
+"supplies_cost": 80
+},
+{
+"id": "rp-878253",
+"dwelling_id": "dw-2022-000004",
+"repaired_at": "2022-10-17",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 31
+},
+{
+"id": "rp-613258",
+"dwelling_id": "dw-2018-000040",
+"repaired_at": "2018-07-20",
+"method": "outlet_test",
+"labor_hours": 4,
+"supplies_cost": 93
+},
+{
+"id": "rp-020367",
+"dwelling_id": "dw-2018-000028",
+"repaired_at": "2018-10-10",
+"method": "gutter_clean",
+"labor_hours": 4,
+"supplies_cost": 378
+},
+{
+"id": "rp-078507",
+"dwelling_id": "dw-2016-000036",
+"repaired_at": "2016-04-17",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 231
+},
+{
+"id": "rp-410134",
+"dwelling_id": "dw-2016-000036",
+"repaired_at": "2016-04-14",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 373
+},
+{
+"id": "rp-747283",
+"dwelling_id": "dw-2015-000020",
+"repaired_at": "2016-01-07",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 428
+},
+{
+"id": "rp-085015",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-02-22",
+"method": "gutter_clean",
+"labor_hours": 1,
+"supplies_cost": 162
+},
+{
+"id": "rp-859665",
+"dwelling_id": "dw-2017-000018",
+"repaired_at": "2017-01-20",
+"method": "smoke_detector",
+"labor_hours": 8,
+"supplies_cost": 315
+},
+{
+"id": "rp-428822",
+"dwelling_id": "dw-2020-000011",
+"repaired_at": "2019-12-29",
+"method": "hvac_filter",
+"labor_hours": 2,
+"supplies_cost": 77
+},
+{
+"id": "rp-043495",
+"dwelling_id": "dw-2023-000033",
+"repaired_at": "2023-10-09",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 166
+},
+{
+"id": "rp-356451",
+"dwelling_id": "dw-2018-000019",
+"repaired_at": "2018-10-27",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 74
+},
+{
+"id": "rp-387829",
+"dwelling_id": "dw-2017-000013",
+"repaired_at": "2017-03-21",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 208
+},
+{
+"id": "rp-251415",
+"dwelling_id": "dw-2019-000000",
+"repaired_at": "2019-08-25",
+"method": "hvac_filter",
+"labor_hours": 8,
+"supplies_cost": 393
+},
+{
+"id": "rp-654286",
+"dwelling_id": "dw-2017-000018",
+"repaired_at": "2017-02-03",
+"method": "outlet_test",
+"labor_hours": 8,
+"supplies_cost": 380
+},
+{
+"id": "rp-887791",
+"dwelling_id": "dw-2016-000001",
+"repaired_at": "2016-02-15",
+"method": "gutter_clean",
+"labor_hours": 4,
+"supplies_cost": 294
+},
+{
+"id": "rp-493964",
+"dwelling_id": "dw-2021-000038",
+"repaired_at": "2021-10-29",
+"method": "hvac_filter",
+"labor_hours": 2,
+"supplies_cost": 349
+},
+{
+"id": "rp-902601",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-20",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 384
+},
+{
+"id": "rp-278542",
+"dwelling_id": "dw-2025-000022",
+"repaired_at": "2025-08-20",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 173
+},
+{
+"id": "rp-881155",
+"dwelling_id": "dw-2016-000001",
+"repaired_at": "2016-02-18",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 345
+},
+{
+"id": "rp-233909",
+"dwelling_id": "dw-2021-000003",
+"repaired_at": "2021-11-01",
+"method": "hvac_filter",
+"labor_hours": 2,
+"supplies_cost": 316
+},
+{
+"id": "rp-037509",
+"dwelling_id": "dw-2016-000001",
+"repaired_at": "2016-03-02",
+"method": "hvac_filter",
+"labor_hours": 4,
+"supplies_cost": 234
+},
+{
+"id": "rp-490604",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-14",
+"method": "smoke_detector",
+"labor_hours": 4,
+"supplies_cost": 219
+},
+{
+"id": "rp-215529",
+"dwelling_id": "dw-2019-000030",
+"repaired_at": "2019-04-18",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 364
+},
+{
+"id": "rp-725143",
+"dwelling_id": "dw-2019-000027",
+"repaired_at": "2019-07-02",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 353
+},
+{
+"id": "rp-733176",
+"dwelling_id": "dw-2017-000013",
+"repaired_at": "2017-04-05",
+"method": "gutter_clean",
+"labor_hours": 2,
+"supplies_cost": 402
+},
+{
+"id": "rp-029181",
+"dwelling_id": "dw-2023-000006",
+"repaired_at": "2024-01-17",
+"method": "smoke_detector",
+"labor_hours": 2,
+"supplies_cost": 407
+},
+{
+"id": "rp-629412",
+"dwelling_id": "dw-2022-000012",
+"repaired_at": "2022-01-24",
+"method": "water_heater_flush",
+"labor_hours": 2,
+"supplies_cost": 270
+},
+{
+"id": "rp-055502",
+"dwelling_id": "dw-2021-000003",
+"repaired_at": "2021-10-17",
+"method": "outlet_test",
+"labor_hours": 2,
+"supplies_cost": 308
+},
+{
+"id": "rp-044323",
+"dwelling_id": "dw-2021-000007",
+"repaired_at": "2021-03-16",
+"method": "smoke_detector",
+"labor_hours": 4,
+"supplies_cost": 103
+},
+{
+"id": "rp-434172",
+"dwelling_id": "dw-2022-000005",
+"repaired_at": "2022-04-14",
+"method": "outlet_test",
+"labor_hours": 1,
+"supplies_cost": 293
+},
+{
+"id": "rp-055013",
+"dwelling_id": "dw-2022-000005",
+"repaired_at": "2022-04-09",
+"method": "hvac_filter",
+"labor_hours": 1,
+"supplies_cost": 239
+},
+{
+"id": "rp-622350",
+"dwelling_id": "dw-2023-000033",
+"repaired_at": "2023-10-08",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 249
+},
+{
+"id": "rp-061061",
+"dwelling_id": "dw-2021-000039",
+"repaired_at": "2021-11-06",
+"method": "gutter_clean",
+"labor_hours": 8,
+"supplies_cost": 406
+},
+{
+"id": "rp-436611",
+"dwelling_id": "dw-2015-000016",
+"repaired_at": "2015-04-18",
+"method": "gutter_clean",
+"labor_hours": 2,
+"supplies_cost": 268
+},
+{
+"id": "rp-639248",
+"dwelling_id": "dw-2021-000034",
+"repaired_at": "2021-01-01",
+"method": "gutter_clean",
+"labor_hours": 8,
+"supplies_cost": 157
+},
+{
+"id": "rp-316312",
+"dwelling_id": "dw-2019-000037",
+"repaired_at": "2019-03-04",
+"method": "water_heater_flush",
+"labor_hours": 1,
+"supplies_cost": 393
+},
+{
+"id": "rp-444898",
+"dwelling_id": "dw-2018-000026",
+"repaired_at": "2018-04-09",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 320
+},
+{
+"id": "rp-698007",
+"dwelling_id": "dw-2018-000026",
+"repaired_at": "2018-04-11",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 238
+},
+{
+"id": "rp-417080",
+"dwelling_id": "dw-2016-000002",
+"repaired_at": "2016-04-11",
+"method": "outlet_test",
+"labor_hours": 4,
+"supplies_cost": 147
+},
+{
+"id": "rp-753408",
+"dwelling_id": "dw-2021-000038",
+"repaired_at": "2021-11-03",
+"method": "hvac_filter",
+"labor_hours": 2,
+"supplies_cost": 49
+},
+{
+"id": "rp-968917",
+"dwelling_id": "dw-2023-000014",
+"repaired_at": "2023-01-26",
+"method": "smoke_detector",
+"labor_hours": 1,
+"supplies_cost": 265
+}
+],
+"walkthrough_logs": [],
+"tags": []
+}
