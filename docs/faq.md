@@ -117,3 +117,4 @@ dwelling = storage.create_dwelling(Dwelling.create("New Friend", repair_interval
 Public API surface is in `fixlog.__init__` — dwellings, service, schedules, parsers,
 validators, errors.
 - faq 0
+- faq 1
