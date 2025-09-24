@@ -118,3 +118,4 @@ Public API surface is in `fixlog.__init__` — dwellings, service, schedules, pa
 validators, errors.
 - faq 0
 - faq 1
+- faq 2
